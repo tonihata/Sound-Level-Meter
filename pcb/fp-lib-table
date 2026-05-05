@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "aanitasomittari-backups")(type "KiCad")(uri "${KIPRJMOD}/aanitasomittari-backups")(options "")(descr ""))
+)
